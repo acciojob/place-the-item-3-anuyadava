@@ -2,7 +2,7 @@
   display: flex;            /* Enables Flexbox on the container */
   flex-direction: row;      /* Aligns children in a horizontal row */
   flex-wrap: wrap;          /* Allows items to wrap to the next row */
-  justify-content: space-between; /* Distributes items evenly in the row */
+  justify-content: space-evenly; /* Distributes items evenly in the row */
 }
 
 /* Your CSS Code here. */
